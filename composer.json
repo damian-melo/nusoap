@@ -1,7 +1,7 @@
 {
-    "name": "deviservi/nusoap",
+    "name": "damian-melo/nusoap",
     "type": "library",
-    "description": "NuSOAP PHP library re-packaged for Packagist/Composer",
+    "description": "NuSOAP PHP library re-packaged for Packagist/Composer - own updates",
     "keywords": ["soap","nusoap"],
     "license": "LGPLv2",
     "authors": [
@@ -12,6 +12,10 @@
         {
             "name": "Scott Nichol",
             "homepage": "http://sourceforge.net/u/snichol/profile/"
+        },
+        {
+            "name": "Damian Melo",
+            "homepage": ""
         }
         ],
     "require": {
